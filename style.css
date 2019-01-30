@@ -9,20 +9,23 @@ body {
 header {
   margin-bottom: 20px;
   background-color: darkgrey;
-  
+  width: 960px;
+  height: 100px;
+  box-align: left;
 }
   nav {
     margin-bottom: 20px;
     background-color: darkgrey;
   }
-  section {
+  #section {
     box-sizing: border-box;
     margin-bottom: 20px;
     background-color: darkgrey;
     position: absolute;
-    
-  
-  article 
+    width: 500px;
+    height: 300px;
+  }
+   #article {
     box-sizing: border-box;
     margin-bottom: 20px;
     background-color: dimgray;
@@ -35,11 +38,12 @@ header {
     position: absolute;
     top: 50px;
     margin: 10px;
-  }
+}
   p {
     margin-bottom: 20px;
     background-color: darkgrey;
     position: absolute;
+    padding: 24px;
     margin: 10px;
   }
   aside {
