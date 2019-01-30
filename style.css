@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    line-height: 32px;  
+    background-color: dimgrey;
+}
+header {
+  margin-bottom: 20px;
+  background-color: darkgrey;
+  
+}
+  nav {
+    margin-bottom: 20px;
+    background-color: darkgrey;
+  }
+  section {
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    position: absolute;
+    
+  
+  article 
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: dimgray;
+    position: relative;
+    top: 50px;
+  }
+  h1 {
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    position: absolute;
+    top: 50px;
+    margin: 10px;
+  }
+  p {
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    position: absolute;
+    margin: 10px;
+  }
+  aside {
+    float: right;
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    position: relative;
+
+  }
+  footer {
+    margin-bottom: 20px;
+    background-color: darkgrey;
+    position: fixed;
+  }
+  
